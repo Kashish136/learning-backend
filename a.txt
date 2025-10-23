@@ -1,0 +1,17 @@
+// node js is an opensource , cross-platform
+// javascript run-time environment for giving info about the schematic running out node.js outside the browser
+// npm plays a major role in managing node package manager
+// it helps in managing node packages
+
+// for running a file of javascript we need to run in our terminal , node and then keep the file name there
+// integration of v-8 engine of javascript along with cpp file 
+( v-8 engine + cpp)
+// window objects and all that are not present in node.js 
+// node.js only provides core functionalities of javascript 
+// it doesnot provides us with functionalities such as alert and document.getelementsbyid such functionalities re not present in javascript 
+
+// encryption , decryption , bycrypting , removal of dom related elements 
+// in general we have a lot of features to add on in production and thus its very important to keep 
+// this all intact , and get an idea about the wo0rking of systems and in profuction there are tonns of files and it becomes difficult to manage all og them thereby we use package.json file   201760951192882 Hey There
+1760951218349 Hey There
+1760951393935 Hey There

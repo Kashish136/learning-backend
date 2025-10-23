@@ -1,0 +1,21 @@
+// learning restful api - representati ,
+ indicates that the server is a different machine and a client 
+ is a differnt machine ,
+  and they should not be dependent on each -other
+
+  html - server side rendering
+  we can send data as a json format , in the form of key-value pairs
+  json format from server , and react browser and flutter mobile app
+  if client is a broswer we should better do , SSR also known as server-side rendering  
+
+
+  2. always respect all the http mehods
+  get , post  , put , patch , delete
+
+
+
+  client-broswer as of now we will be using html , server side rendering 
+  respect all the https methods in mern stackk
+  res.send()
+  res.render() , are examples of server side rendering when we directly render the html code and browser , its typically faster as seen in express and node.js and along with that we will 
+  using methods like client side rendering for react based methods where we need to handle json based handling 

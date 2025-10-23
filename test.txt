@@ -1,0 +1,35 @@
+// for using query parametres into account node.js does nit know about the existence of these query parametres http has no idea bout the htps parametres
+//therere are 5 major http parametres which e are gonna study today which are get , post , put , patch , delete , these are the 5 parametres which we can learn , or are going to learn forbuilding porjects , its a part of node.js
+
+get - when u want to get some data from the server(reading of data , and extracting and getting it )
+post-when u want to send , and mutate some data in server ( when u want to send and mutate we use post methods)
+put- uploading a picture and a photo
+patch- already present entry in a database , and when we want to change it
+delete-
+put - replace 
+patch - update partially 
+delete - remove 
+post - users
+get - read
+// writing using simple node.js is quite complex and it involves the handling of 
+different methods , diffeerent cases and also in that we require 4 different models of , 'get' , 'post', 'put' , 'patch' etc . therefore its etremely important to handle all this really well
+express is fast , unopinionated , minimalist , web framework for Node.js..
+
+
+// concept of versioning in express.js , how does versioning works in the re
+// 3rd part(last part)-minor fixes (optional)
+
+
+// 2nd part - Recommended Bug Fix (Security Fix)
+Latest - 4.19.1
+
+// 3rs part fixing major relase - major /breaking code 
+ it can lead to breakage of code , if not handled properly and can lead to different changes , breakages
+ // npm install express@4.18.2 for specification of the version we want to get for building of projects , and thus its important to handle the verions else might lead to security based and handler based issues ....
+
+
+
+ ^4.18.2 || 4.18.2 is the initial version and then -> < 5.0.0 is the final versionn upto which we can rely on this method , thereby we need to have a  well - defined range 
+ ~4.18.2 || dont change the recommended second part also , u can only change the last part 
+
+ express = "latest" , not a good practice , therefore we need to keep in mind that it will always install the latest available version to us ..
